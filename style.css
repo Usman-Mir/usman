@@ -1,0 +1,40 @@
+#list{
+    color: aliceblue;
+    background-color:rgb(26, 22, 22);
+   }
+#heading{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    width:300px;
+}
+#b{
+    background-color: black;
+    color:black;
+}
+#m{
+    color:rgb(155, 43, 43);
+}
+#p{
+    background-color: rgb(231, 224, 215);
+
+}
+#form{
+    background-color: rgb(241, 238, 233);
+
+}
+.f{
+    width:350px;
+}
+#img{
+    background-color: rgb(233, 228, 222);
+    width:300px;
+    text-align: center;
+    display: block;
+}
+#gr{
+    background-color: rgb(235, 229, 222);
+    width:350px;
+    text-align: center;
+    display: block;
+}
